@@ -1,0 +1,4 @@
+.DS_Store
+src/vendors/
+npm-debug.log
+.vscode/
